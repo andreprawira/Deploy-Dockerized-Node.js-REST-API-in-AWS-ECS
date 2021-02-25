@@ -1,3 +1,5 @@
+# Repo contains REST API in Node.js, you can dockerized and deploy it in AWS ECS
+
 1. Create 3 different repo registries with 3 different names:
 - users
 - posts
@@ -7,6 +9,7 @@
 
 
 ```aws cloudformation deploy --template-file infrastructure/ecs.yml --region us-east-2 --stack-name ECS-Cluster --capabilities CAPABILITY_NAMED_IAM```
+
 ```aws cloudformation deploy --template-file infrastructure/ecs.yml --region <region> --stack-name <stack name> --capabilities CAPABILITY_NAMED_IAM```
 
 
