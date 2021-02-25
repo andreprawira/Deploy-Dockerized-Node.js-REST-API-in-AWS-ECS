@@ -23,11 +23,20 @@
 
 5. Create service definition for each task, all default settings except ```2 number of tasks``` for each service definition and use Application Load Balancer with ```80:HTTP in Production listener port*```
 
-Path Pattern	Evaluation order Health check path
-/api/users*	1			 /api/users
-/api/posts*	2 			 /api/posts
-/api/threads* 	3			 /api/threads
+Path Pattern	 
+```/api/users*```			 
+```/api/posts*```			 
+```/api/threads*``` 			 
 
+Evaluation order
+```1```
+```2```
+```3```
+
+Health check path
+```/api/users```
+```/api/posts```
+```/api/threads```
 6. Run all service and task definitions, go to Load Balancer and copy the DNS name, open Postman paste it there
 ```<DNS name>/api/users```
 ```<DNS name>/api/threads```
