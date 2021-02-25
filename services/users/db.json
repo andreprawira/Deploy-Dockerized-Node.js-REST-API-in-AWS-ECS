@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "mohammed",
+      "name": "Mohammed Aldalooj",
+      "bio": "fat and lazy as fuck"
+    },
+    {
+      "id": 2,
+      "username": "raditya",
+      "name": "Raditya Kondaveti",
+      "bio": "a midget"
+    },
+    {
+      "id": 3,
+      "username": "angelique",
+      "name": "Angelique Irakundu",
+      "bio": "Raditya's boo <3"
+    },
+    {
+      "id": 4,
+      "username": "andre",
+      "name": "Andre Prawira",
+      "bio": "rich mf, very cool, drive bmw, buff too, very hot"
+    }
+  ]
+}

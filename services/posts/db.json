@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "thread": 1,
+      "text": "I love cooking",
+      "user": 4
+    },
+    {
+      "thread": 1,
+      "text": "I love eating",
+      "user": 2
+    },
+    {
+      "thread": 2,
+      "text": "I love hiking",
+      "user": 3
+    },
+    {
+      "thread": 2,
+      "text": "I love dogs",
+      "user": 2
+    },
+    {
+      "thread": 2,
+      "text": "I love money",
+      "user": 1
+    },
+    {
+      "thread": 3,
+      "text": "I love my BMW",
+      "user": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "title": "Mohammed has been single for 27 years",
+      "createdBy": 4
+    },
+    {
+      "id": 2,
+      "title": "Raditya is a midget",
+      "createdBy": 3
+    },
+    {
+      "id": 3,
+      "title": "Andre is very cool",
+      "createdBy": 1
+    }
+  ]
+}
